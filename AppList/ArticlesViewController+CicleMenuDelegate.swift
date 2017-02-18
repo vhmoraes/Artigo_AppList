@@ -16,7 +16,7 @@ extension ArticlesViewController: CircleMenuDelegate {
         button.layer.cornerRadius = 0.5 * button.bounds.size.width
         button.backgroundColor = UIColor.lightGray
         button.layer.borderWidth = 2.0
-        button.layer.borderColor = UIColor.red.cgColor
+        button.layer.borderColor = UIColor.magenta.cgColor    //UIColor.red.cgColor
         switch atIndex {
         case 0:
             button.setTitle("Perfil", for: .normal)

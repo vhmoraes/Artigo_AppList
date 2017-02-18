@@ -18,7 +18,7 @@ class ArticlesDataProvider  {
     
     func getAllArticles(){
         
-        ArticlesAPIStore().getAllArticles(userID: "0e8c08a1b7de446fa72745b5a0c7ae8b") { (account, error) in
+        ArticlesAPIStore().getAllArticles(userID: "499fbb7b58ad42809ed13234e16f1d1a") { (account, error) in
     
             if error != nil {
                 self.delegate?.fail(error: error!)

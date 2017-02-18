@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>396543672494-3k4vajhge8i4q2r4e1vmh38o0hsj5pn9.apps.googleusercontent.com</string>
+	<string>143602862775-eop77vkdh6vqr12fh3vp682u4p1bssf6.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.396543672494-3k4vajhge8i4q2r4e1vmh38o0hsj5pn9</string>
+	<string>com.googleusercontent.apps.143602862775-eop77vkdh6vqr12fh3vp682u4p1bssf6</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBXBY2F8OKZdOINIEZlQo-vSpXUS8dJCHw</string>
+	<string>AIzaSyDK4OFxQ1pqGPLN1F_RVa4_KLOTXuoecFw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>396543672494</string>
+	<string>143602862775</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>Impacta.AppList</string>
+	<string>vanessa.artigos</string>
 	<key>PROJECT_ID</key>
-	<string>applistnoturno</string>
+	<string>artigos-85b15</string>
 	<key>STORAGE_BUCKET</key>
-	<string>applistnoturno.appspot.com</string>
+	<string>artigos-85b15.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:396543672494:ios:931bcf3de46e2468</string>
+	<string>1:143602862775:ios:55e21d82113fce4f</string>
 	<key>DATABASE_URL</key>
-	<string>https://applistnoturno.firebaseio.com</string>
+	<string>https://artigos-85b15.firebaseio.com</string>
 </dict>
 </plist>
