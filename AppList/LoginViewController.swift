@@ -33,8 +33,8 @@ class LoginViewController: UIViewController {
     var loginDataprovider = LoginDataProvider()
     func setupPasswordButton() {
         
-        self.passwordButton.layer.borderWidth = 2.0
-        self.passwordButton.layer.borderColor = UIColor.white.cgColor
+        //self.passwordButton.layer.borderWidth = 2.0
+        //self.passwordButton.layer.borderColor = UIColor.white.cgColor
         self.passwordButton.layer.cornerRadius = 8.0
     }
     
